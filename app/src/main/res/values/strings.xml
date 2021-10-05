@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CryptoSample</string>
+    <string name="encrypt_text">ENCRYPT</string>
+    <string name="dencrypt_text">DENCRYPT</string>
+    <string name="is_rsa">是否為RSA</string>
+    <string name="tink_case_button_text">Tink</string>
+    <string name="rsa_text">RSA</string>
+    <string name="aes_text">AES</string>
+    <string name="hybrid_text">HYBRID</string>
+    <string name="key_store_case_button_text">KEYSTORE</string>
+</resources>
